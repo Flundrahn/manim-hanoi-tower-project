@@ -1,4 +1,4 @@
-# Tower of Hanoi Puzzle Project
+# manim-hanoi-tower-project
 A visualization of the Tower of Hanoi Puzzle. 
 Invented by French mathematician Édouard Lucas in the 19th century.
 
